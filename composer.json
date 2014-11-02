@@ -1,0 +1,26 @@
+{
+    "name": "fpoirotte/natives4doxygen",
+    "description": "Doxygen documentation for PHP's built-in classes and interfaces",
+    "keywords": ["doxygen", "documentation"],
+    "homepage": "https://github.com/fpoirotte/PHPNatives4Doxygen",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Poirotte",
+            "email": "clicky@erebot.net",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/fpoirotte/PHPNatives4Doxygen/issues",
+        "source": "https://github.com/fpoirotte/PHPNatives4Doxygen"
+    },
+    "require": {
+        "php": "*",
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
