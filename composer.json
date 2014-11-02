@@ -16,7 +16,7 @@
         "source": "https://github.com/fpoirotte/PHPNatives4Doxygen"
     },
     "require": {
-        "php": "*",
+        "php": "*"
     },
     "extra": {
         "branch-alias": {
