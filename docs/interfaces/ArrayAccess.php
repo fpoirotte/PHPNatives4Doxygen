@@ -17,7 +17,7 @@ interface ArrayAccess {
      * on objects implementing ArrayAccess.
      *
      * \param mixed $offset
-     *      An offset to check for.    
+     *      An offset to check for.
      *
      * \retval bool
      *      \c true is returned when the offset exists,
